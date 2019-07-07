@@ -1,0 +1,25 @@
+/*
+ * definitions.h
+ *
+ *  Created on: 6 jul. 2019
+ *      Author: Diego Corredera
+ */
+
+#ifndef SRC_DEFINITIONS_DEFINITIONS_H_
+#define SRC_DEFINITIONS_DEFINITIONS_H_
+
+	#define NUMBER_OF_OSCILLATORS 9
+
+	#define OSCILATOR_INDEX_ANKLE_RIGHT	0
+	#define	OSCILATOR_INDEX_ANKLE_LEFT  1
+	#define OSCILATOR_INDEX_HIP_RIGHT  	2
+	#define OSCILATOR_INDEX_HIP_LEFT  	3
+
+	#define OSCILATOR_INDEX_SR  4
+	#define OSCILATOR_INDEX_SL  5
+	#define OSCILATOR_INDEX_AR  6
+	#define OSCILATOR_INDEX_AL  7
+
+	#define OSCILATOR_INDEX_HEAD   8
+
+#endif /* SRC_DEFINITIONS_DEFINITIONS_H_ */
